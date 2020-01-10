@@ -1,32 +1,32 @@
 audit_header: false
 title: "Guaranteed Offer"
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+description: John Salkowski, a top Real Estate Agent in Philadelphia, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 client:
-  name:
+  name: John Salkowski
   title:
   license_number:
   about_markdown: |
 
-  market:
-  brand:
+  market: Philadelphia
+  brand: The JRS Realty Group
   brokerage:
-  address:
-  phone:
+  address: '198 Allendale Rd. Ste #301 King of Prussia, PA 19406'
+  phone: 610-756-7954
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: john@jrsrealtygroup.com
+  url: https://www.jrsrealtygroup.com
 
 images:
-  client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/logo.png
+  client_headshot_path: /img/headshot.png
+  hero_logo_path: /img/logo.jpg
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
 
 site_colors:
-  brand_color: '#094264'
-  theme_color: '#999'
+  brand_color: '#11467a'
+  theme_color: '#4d4d4f'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -46,7 +46,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: transparent
-  button_text_color: '#123456'
+  button_text_color: '#11467a'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
